@@ -19,4 +19,4 @@ dataset = [['Jupe', 'Baskets', 'Foulard', 'Pantalon', 'Chapeau'],
 
 Bonus: Essayez de faire un peu de visualisation avant d’appliquer l’algorithme Apriori.
 
-Faisons le même point de contrôle, mais avec un jeu de données plus grand!
+Faisons le même point de contrôle, mais avec un jeu de données Market_Basket_Optimisation.csv!
